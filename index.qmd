@@ -1,6 +1,6 @@
 ---
-title: "Yujun Lian"
-image: images/lianyujun_2025.png
+title: "Xueshi Guo"
+image: images/guoxueshi_2025.png
 about:
   id: hero-heading
   template: trestles
@@ -12,7 +12,7 @@ about:
       href: mailto:arlionn@163.com
     - icon: github
       text: arlionn
-      href: https://github.com/lianyujun
+      href: https://github.com/guoxueshi
     - icon: book
       text: Google Scholar
       href: https://scholar.google.com/citations?user=tlkDP2AAAAAJ
@@ -41,7 +41,7 @@ about:
 
 ::: {#hero-heading}
 
-Professor Lian's research interests lie in the field of causal inference methods and stochastic frontier analysis, with specific applications in investment, trade credit, and supply chain dynamics. He has been actively researching topics such as supply chain finance, leverage adjustment, trade credit, and innovation. He teaches courses in Financial Econometrics and Applied Econometrics. 
+Professor Guo's research interests lie in the field of causal inference methods and stochastic frontier analysis, with specific applications in investment, trade credit, and supply chain dynamics. He has been actively researching topics such as supply chain finance, leverage adjustment, trade credit, and innovation. He teaches courses in Financial Econometrics and Applied Econometrics. 
 
 His teaching abilities have been highly regarded, as evidenced by his consecutive perfect teaching evaluations in the MBA corporate finance course over a span of three years. He was was awarded the title of *My Favorite Teacher* in 2022 by Lignan College. 
 
